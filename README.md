@@ -8,7 +8,9 @@ This application can be used for writing, saving and deleting notes. This applic
 
 repo: https://github.com/Trouterwen/express.js.hw
 
-deployed link:
+deployed link: https://express-js-hw-49e83ea8f17e.herokuapp.com/notes.html
+
+readme link: https://github.com/Trouterwen/express.js.hw/blob/main/README.md
 
 
 ## Acceptance Criteria
